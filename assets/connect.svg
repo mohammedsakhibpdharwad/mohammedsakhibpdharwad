@@ -23,7 +23,7 @@
 <text x="680" y="235" class="h" font-size="20">GitHub</text><text x="680" y="259" class="small">Explore my code</text><text x="1065" y="243" class="h" font-size="28">→</text>
 <rect x="650" y="295" width="450" height="70" rx="20" fill="#0d1424" stroke="#247bff" stroke-opacity=".7"/>
 <text x="680" y="325" class="h" font-size="20">Portfolio</text><text x="680" y="349" class="small">Explore my work</text><text x="1065" y="333" class="h" font-size="28">→</text>
-<rect x="650" y="385" width="450" height="70" rx="20" fill="#0d1424" stroke="#ff354f" stroke-opacity=".7"/>
+
 
 
 </svg>
