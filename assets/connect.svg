@@ -503,18 +503,17 @@ and connecting with like-minded people.
 </a>
 
 </svg>
-
-Important
-Keep id.png in the same assets folder:
-
-assets/
-├── connect.svg
-├── id.png
-├── hero.svg
-├── about-life.svg
-└── ...
-Instagram is completely removed. The three remaining cards have the correct links.
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedsakhibpdharwad">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/mohammedsakhibpdharwad">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://portfolio-ebon-sigma-23kdmcvfzw.vercel.app/">
+    Portfolio
+  </a>
+</p>
 
