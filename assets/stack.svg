@@ -6,20 +6,343 @@
 .body{font-family:Arial,Helvetica,sans-serif;font-weight:500;fill:#aab4c7}
 .mono{font-family:"Courier New",monospace;fill:#247bff;font-weight:700}
 .small{font-family:Arial,Helvetica,sans-serif;fill:#aab4c7;font-size:18px}
-@media (prefers-reduced-motion: reduce){*{animation:none!important;animation-duration:0s!important;}}
+@media (prefers-reduced-motion: reduce){
+*{animation:none!important;animation-duration:0s!important;}
+}
 </style>
-
 </defs>
-<rect width="1200" height="620" rx="28" fill="#070b16"/><rect x="8" y="8" width="1184" height="604" rx="22" fill="none" stroke="#247bff" stroke-opacity=".55"/><path d="M0 70H1200M0 550H1200" stroke="#ff354f" stroke-opacity=".18"/>
-<text x="55" y="65" class="mono" font-size="18">// TECH STACK</text>
-<text x="55" y="130" class="title" font-size="42">TECHNOLOGIES</text>
-<text x="55" y="178" class="title" font-size="42" fill="#247bff">I WORK WITH.</text>
-<text x="55" y="235" class="body" font-size="19">A practical combination of languages, frameworks,</text>
-<text x="55" y="264" class="body" font-size="19">databases and AI tools for building real applications.</text>
-<ellipse cx="360" cy="410" rx="270" ry="120" fill="none" stroke="#247bff" stroke-opacity=".35"/>
-<ellipse cx="360" cy="410" rx="230" ry="90" fill="none" stroke="#ff354f" stroke-opacity=".35"/>
-<circle cx="165" cy="410" r="10" fill="#247bff"><animate attributeName="cx" values="165;555;165" dur="8s" repeatCount="indefinite"/></circle>
-<text x="585" y="65" class="mono" font-size="18">// STACK LIST</text>
-<rect x="585" y="120" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="650" y="145" text-anchor="middle" class="small" font-size="13">Python</text><rect x="730" y="120" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="795" y="145" text-anchor="middle" class="small" font-size="13">Java</text><rect x="875" y="120" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="940" y="145" text-anchor="middle" class="small" font-size="13">C</text><rect x="1020" y="120" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="1085" y="145" text-anchor="middle" class="small" font-size="13">SQL</text><rect x="585" y="178" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="650" y="203" text-anchor="middle" class="small" font-size="13">JavaScript</text><rect x="730" y="178" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="795" y="203" text-anchor="middle" class="small" font-size="13">React.js</text><rect x="875" y="178" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="940" y="203" text-anchor="middle" class="small" font-size="13">HTML5</text><rect x="1020" y="178" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="1085" y="203" text-anchor="middle" class="small" font-size="13">CSS3</text><rect x="585" y="236" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="650" y="261" text-anchor="middle" class="small" font-size="13">Tailwind CSS</text><rect x="730" y="236" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="795" y="261" text-anchor="middle" class="small" font-size="13">FastAPI</text><rect x="875" y="236" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="940" y="261" text-anchor="middle" class="small" font-size="13">PostgreSQL</text><rect x="1020" y="236" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="1085" y="261" text-anchor="middle" class="small" font-size="13">MySQL</text><rect x="585" y="294" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="650" y="319" text-anchor="middle" class="small" font-size="13">OpenCV</text><rect x="730" y="294" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="795" y="319" text-anchor="middle" class="small" font-size="13">Hugging Face</text><rect x="875" y="294" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="940" y="319" text-anchor="middle" class="small" font-size="13">NLP</text><rect x="1020" y="294" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="1085" y="319" text-anchor="middle" class="small" font-size="13">Computer Vision</text><rect x="585" y="352" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="650" y="377" text-anchor="middle" class="small" font-size="13">Git</text><rect x="730" y="352" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="795" y="377" text-anchor="middle" class="small" font-size="13">GitHub</text><rect x="875" y="352" width="130" height="38" rx="19" fill="#0d1424" stroke="#ff354f" stroke-opacity=".45"/><text x="940" y="377" text-anchor="middle" class="small" font-size="13">Flask</text><rect x="1020" y="352" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="1085" y="377" text-anchor="middle" class="small" font-size="13">TiDB Cloud</text><rect x="585" y="410" width="130" height="38" rx="19" fill="#0d1424" stroke="#247bff" stroke-opacity=".45"/><text x="650" y="435" text-anchor="middle" class="small" font-size="13">Render</text>
+
+<!-- BACKGROUND -->
+
+<rect width="1200" height="620" rx="28" fill="#070b16"/>
+
+<rect x="8" y="8" width="1184" height="604" rx="22"
+fill="none"
+stroke="#247bff"
+stroke-opacity=".55"/>
+
+<path d="M0 70H1200M0 550H1200"
+stroke="#ff354f"
+stroke-opacity=".18"/>
+
+
+<!-- LEFT CONTENT -->
+
+<text x="55" y="65"
+class="mono"
+font-size="18">// TECH STACK</text>
+
+<text x="55" y="130"
+class="title"
+font-size="42">TECHNOLOGIES</text>
+
+<text x="55" y="178"
+class="title"
+font-size="42"
+fill="#247bff">I WORK WITH.</text>
+
+<text x="55" y="235"
+class="body"
+font-size="19">
+A practical combination of languages, frameworks,
+</text>
+
+<text x="55" y="264"
+class="body"
+font-size="19">
+databases and AI tools for building real applications.
+</text>
+
+
+<!-- FULLY VISIBLE RINGS -->
+
+<ellipse
+cx="260"
+cy="410"
+rx="200"
+ry="120"
+fill="none"
+stroke="#247bff"
+stroke-opacity=".35"
+stroke-width="2"/>
+
+<ellipse
+cx="260"
+cy="410"
+rx="165"
+ry="90"
+fill="none"
+stroke="#ff354f"
+stroke-opacity=".35"
+stroke-width="2"/>
+
+
+<!-- MOVING DOT -->
+
+<circle
+cx="110"
+cy="410"
+r="10"
+fill="#247bff">
+
+<animate
+attributeName="cx"
+values="110;410;110"
+dur="8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- STACK TITLE -->
+
+<text
+x="500"
+y="65"
+class="mono"
+font-size="18">// STACK LIST</text>
+
+
+<!-- ROW 1 -->
+
+<rect x="500" y="120" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="565" y="145"
+text-anchor="middle"
+class="small"
+font-size="13">Python</text>
+
+
+<rect x="645" y="120" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="710" y="145"
+text-anchor="middle"
+class="small"
+font-size="13">Java</text>
+
+
+<rect x="790" y="120" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="855" y="145"
+text-anchor="middle"
+class="small"
+font-size="13">C</text>
+
+
+<rect x="935" y="120" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="1000" y="145"
+text-anchor="middle"
+class="small"
+font-size="13">SQL</text>
+
+
+<!-- ROW 2 -->
+
+<rect x="500" y="178" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="565" y="203"
+text-anchor="middle"
+class="small"
+font-size="13">JavaScript</text>
+
+
+<rect x="645" y="178" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="710" y="203"
+text-anchor="middle"
+class="small"
+font-size="13">React.js</text>
+
+
+<rect x="790" y="178" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="855" y="203"
+text-anchor="middle"
+class="small"
+font-size="13">HTML5</text>
+
+
+<rect x="935" y="178" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="1000" y="203"
+text-anchor="middle"
+class="small"
+font-size="13">CSS3</text>
+
+
+<!-- ROW 3 -->
+
+<rect x="500" y="236" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="565" y="261"
+text-anchor="middle"
+class="small"
+font-size="13">Tailwind CSS</text>
+
+
+<rect x="645" y="236" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="710" y="261"
+text-anchor="middle"
+class="small"
+font-size="13">FastAPI</text>
+
+
+<rect x="790" y="236" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="855" y="261"
+text-anchor="middle"
+class="small"
+font-size="13">PostgreSQL</text>
+
+
+<rect x="935" y="236" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="1000" y="261"
+text-anchor="middle"
+class="small"
+font-size="13">MySQL</text>
+
+
+<!-- ROW 4 -->
+
+<rect x="500" y="294" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="565" y="319"
+text-anchor="middle"
+class="small"
+font-size="13">OpenCV</text>
+
+
+<rect x="645" y="294" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="710" y="319"
+text-anchor="middle"
+class="small"
+font-size="13">Hugging Face</text>
+
+
+<rect x="790" y="294" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="855" y="319"
+text-anchor="middle"
+class="small"
+font-size="13">NLP</text>
+
+
+<rect x="935" y="294" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="1000" y="319"
+text-anchor="middle"
+class="small"
+font-size="13">Computer Vision</text>
+
+
+<!-- ROW 5 -->
+
+<rect x="500" y="352" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="565" y="377"
+text-anchor="middle"
+class="small"
+font-size="13">Git</text>
+
+
+<rect x="645" y="352" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="710" y="377"
+text-anchor="middle"
+class="small"
+font-size="13">GitHub</text>
+
+
+<rect x="790" y="352" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#ff354f"
+stroke-opacity=".45"/>
+
+<text x="855" y="377"
+text-anchor="middle"
+class="small"
+font-size="13">Flask</text>
+
+
+<rect x="935" y="352" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="1000" y="377"
+text-anchor="middle"
+class="small"
+font-size="13">TiDB Cloud</text>
+
+
+<!-- ROW 6 -->
+
+<rect x="500" y="410" width="130" height="38" rx="19"
+fill="#0d1424"
+stroke="#247bff"
+stroke-opacity=".45"/>
+
+<text x="565" y="435"
+text-anchor="middle"
+class="small"
+font-size="13">Render</text>
 
 </svg>
