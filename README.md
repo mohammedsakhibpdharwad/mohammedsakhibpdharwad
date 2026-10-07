@@ -45,4 +45,4 @@ Developed responsive frontend interfaces and backend functionality, integrated r
 - [GitHub](https://github.com/mohammedsakhibpdharwad)
 - [Portfolio](https://portfolio-ebon-sigma-23kdmcvfzw.vercel.app/)
 
-**Interests:** Coding · Photography · Travelling
+**Interests:** Coding · Football · Travelling
