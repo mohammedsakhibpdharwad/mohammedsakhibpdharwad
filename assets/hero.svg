@@ -15,7 +15,7 @@
 <text x="60" y="72" class="mono" font-size="18">WELCOME TO MY GITHUB //</text>
 <text x="60" y="145" class="small">Hi, I'm</text>
 <text x="60" y="215" class="title" font-size="54">MOHAMMEDSAKHIB</text>
-<text x="60" y="275" class="title" font-size="62" fill="#247bff">P DHARWAD</text>
+<text x="60" y="275" class="title" font-size="54" fill="#247bff">P DHARWAD</text>
 <rect x="60" y="305" width="690" height="48" rx="24" fill="#0d1424" stroke="#247bff" stroke-opacity=".7"/>
 <text x="82" y="336" class="h" font-size="19">FULL-STACK DEVELOPER</text>
 <text x="60" y="392" class="body" font-size="22">Information Science &amp; Technology student building</text>
