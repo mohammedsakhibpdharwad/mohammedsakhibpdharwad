@@ -8,7 +8,35 @@
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+<img src="./assets/connect.svg?v=2" width="100%">
+
+</td>
+
+<td width="50%" valign="middle">
+
+<a href="https://www.linkedin.com/in/mohammedsakhibpdharwad">
+<img src="./assets/linkedin-card.svg" width="100%">
+</a>
+
+<br>
+
+<a href="https://github.com/mohammedsakhibpdharwad">
+<img src="./assets/github-card.svg" width="100%">
+</a>
+
+<br>
+
+<a href="https://portfolio-ebon-sigma-23kdmcvfzw.vercel.app/">
+<img src="./assets/portfolio-card.svg" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
 
 
 ## Featured Projects
