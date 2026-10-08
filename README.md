@@ -9,9 +9,7 @@
 ![ID](./assets/id-dashboard.svg?v=1)
 
 ![Connect](./assets/connect.svg?v=1)
-[LinkedIn](https://www.linkedin.com/in/mohammedsakhibpdharwad) ·
-[GitHub](https://github.com/mohammedsakhibpdharwad) ·
-[Portfolio](https://portfolio-ebon-sigma-23kdmcvfzw.vercel.app/)
+
 
 ## Featured Projects
 
