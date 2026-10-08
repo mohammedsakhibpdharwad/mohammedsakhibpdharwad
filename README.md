@@ -10,13 +10,14 @@
 
 <table>
 <tr>
-<td width="25%" valign="middle">
 
-<img src="./assets/connect.svg?v=2" width="100%">
+<td width="50%" valign="middle">
+
+<img src="./assets/connect.svg?v=3" width="100%">
 
 </td>
 
-<td width="25%" valign="middle">
+<td width="50%" valign="middle">
 
 <a href="https://www.linkedin.com/in/mohammedsakhibpdharwad">
 <img src="./assets/linkedin-card.svg" width="100%">
@@ -35,6 +36,7 @@
 </a>
 
 </td>
+
 </tr>
 </table>
 
