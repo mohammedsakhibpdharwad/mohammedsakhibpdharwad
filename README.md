@@ -49,7 +49,7 @@
 | **Suraksha-Astra** | AI-based cyber safety system for harmful text and visual content moderation with weighted risk scoring. | Python, FastAPI, Hugging Face Transformers, NLP, Computer Vision, CNNs, OpenCV |
 | **ExpenseHub** | Enterprise expense management platform with role-based workflows, multi-stage approvals, audit logging, analytics and reporting. | Python, Flask, MySQL, TiDB Cloud, HTML5, CSS3, JavaScript, Render |
 
-> Project repository/demo links are intentionally omitted until public URLs exist.
+>
 
 ## Experience
 
