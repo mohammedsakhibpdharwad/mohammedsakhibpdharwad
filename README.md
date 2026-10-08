@@ -11,13 +11,13 @@
 <table>
 <tr>
 
-<td width="50%" valign="middle">
+<td width="65%" valign="middle">
 
 <img src="./assets/connect.svg?v=3" width="100%">
 
 </td>
 
-<td width="50%" valign="middle">
+<td width="35%" valign="middle">
 
 <a href="https://www.linkedin.com/in/mohammedsakhibpdharwad">
 <img src="./assets/linkedin-card.svg" width="100%">
